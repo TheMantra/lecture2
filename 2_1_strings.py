@@ -26,8 +26,8 @@
 ###########################################
 ### another sample of printing a varibale #
 ###########################################
-pi = 3.14
-print(pi)
-str_pi = str(pi)
-print("pi number is : ", pi)  # print each part of input separately
-print("pi number is : " + str(pi))  # concat two string
+e = 2.7
+print(e)
+str_pi = str(e)
+print("e number  is : "  , e)  # print each part of input separately
+print("e number  is : "  + str(e))  # concat two string
