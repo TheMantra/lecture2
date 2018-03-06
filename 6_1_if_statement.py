@@ -1,8 +1,10 @@
 ###################################################
 ## these examples shows different type of if-stmt #
 ###################################################
-a=5
-b=6
+min = 5
+max = 9
+a= min + max
+b= max
 if(a == b):
     print("a == b")
 if(a > b):
