@@ -6,11 +6,15 @@
 #######################################
 
 # name = value
-name = "Ali"
-year = 1396
+phrase = "Hello World!"
+digit = 7.3
+a = "Hey Siri"
+b = "show me weather live"
 
 ###########################################
 ###### accessing the value inside variable#
 ###########################################
-print(name)
-print(year)
+print(phrase)
+print(digit)
+print(a)
+print(b)
