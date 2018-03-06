@@ -2,7 +2,7 @@
 # get a string from user #
 ##########################
 text = input("enter what you want\n")
-print(5*text)
+print(100**text)
 
 ##########################
 # get a number from user #
